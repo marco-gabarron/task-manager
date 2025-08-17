@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "a8a35d13-809d-4dce-a659-19e7574ec56d",
+      "title": "Read Spanish",
+      "time": "evening",
+      "description": "Read",
+      "status": "done"
+    },
+    {
+      "id": "2301f124-898b-43c8-9068-802a496f59f3",
+      "title": "Study Node JS",
+      "time": "evening",
+      "description": "To study node js",
+      "status": "done"
+    },
+    {
+      "id": "e851434f-2d1d-4094-988e-4e101582f1f1",
+      "title": "Study Typescript",
+      "time": "morning",
+      "description": "Studying Typescript",
+      "status": "done"
+    },
+    {
+      "id": "b5c357e3-96b0-4e82-be82-601c06680517",
+      "title": "Study React",
+      "time": "evening",
+      "description": "Description",
+      "status": "in_progress"
+    }
+  ]
+}
